@@ -10,8 +10,10 @@ public class Firstclass {
 		System.out.println("Hello Russia");
 		System.out.println("reshma is a good girl");
 		System.out.println("Osman is a good boy");
+		System.out.println("I'm proud to say Indian");
 	}
 	
 	
 
 }
+
